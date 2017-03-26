@@ -8,7 +8,10 @@ This file will contain daily reports of tasks and potentially periodic reports o
 ### March 26
 - house keeping: pass cells.
 - Writing: figures for the "cancer types" part.
-- Reading: EMT and IDH mutation *in vitro* models.
+- Reading: EMT and IDH mutation *in vitro* glioblastoma models.
+  
+  test
+  
 - Order: tissue samples, breast and glioblastoma from Biomax.
 
 ### March 27
