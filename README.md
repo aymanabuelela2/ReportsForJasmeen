@@ -5,4 +5,10 @@ This file will contain daily reports of tasks and potentially periodic reports o
 
 ## March
 
-### March 24
+### March 26
+- house keeping: pass cells.
+- Writing: figures for the "cancer types" part.
+- Reading: EMT and IDH mutation *in vitro* models.
+- Order: tissue samples, breast and glioblastoma from Biomax.
+
+### March 27
